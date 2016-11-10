@@ -1,7 +1,8 @@
 Ingredients:
+	Bruschetta 
 
 
-Dairy:
+Dairy: 
 
 
 
@@ -10,8 +11,16 @@ Meat:
 
 
 Bread:
+	1 french baguette 
+	
 
 
-
-Vegetables:
+Vegetables: 
+	6 Tomatoes 
+	2 cloves garlic (minced)
+	1 tbsp extra virgin oil 
+	1 teaspoon balsamic vinegar 
+	fresh basil leaves 
+	salt 
+	ground pepper 
 
