@@ -2,12 +2,13 @@ Ingredients:
 	Bruschetta 
 
 
-Dairy: 
+Dairy:
+	60ml thin cream
 
 
 
 Meat:
-
+	600g cooked school prawns
 
 
 Bread:
@@ -22,5 +23,9 @@ Vegetables:
 	1 teaspoon balsamic vinegar 
 	fresh basil leaves 
 	salt 
-	ground pepper 
+	ground pepper
+	1 tbsp fresh lemon juice
+	1 tsp Worcestershire sauce
+	Dash of red Tobasco pepper sauce
+	1 iceberg lettuce
 
