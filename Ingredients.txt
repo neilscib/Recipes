@@ -1,18 +1,29 @@
-<<<<<<< HEAD
 Ingredients:
 	Bruschetta 
+<<<<<<< HEAD
 	Mushroom Soup
+=======
+	Beef fillet
+	Lemon Cheesecake 
+
+>>>>>>> origin/Lemon_Cheese_cake
 
 Dairy: 
+	2 tbsp unsalted butter
+	60g butter 
+	300g medium fat cream cheese
+	150ml double cream 
 
 
 
 Meat:
+	1 fillet of beef
 
 
 
 Bread:
 	1 french baguette 
+	200g digestive biscuits
 	
 
 
@@ -28,8 +39,15 @@ Vegetables:
 	1 tbsp extra virgin oil 
 	1 teaspoon balsamic vinegar 
 	fresh basil leaves 
+<<<<<<< HEAD
 	1.5 tbsp salt 
 	ground pepper 
-
 =======
->>>>>>> c8169b477056f6a4482782b73ecf757cd62b1f32
+	1 teaspoon kosher salt 
+	1/2 teaspoon ground pepper 
+	1 tbsp kosher salt
+	1 tbsp ground black pepper 
+	1 lemon 
+	75g caster sugar 
+>>>>>>> origin/Lemon_Cheese_cake
+
