@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Ingredients:
 	Bruschetta 
 
@@ -24,3 +25,5 @@ Vegetables:
 	salt 
 	ground pepper 
 
+=======
+>>>>>>> c8169b477056f6a4482782b73ecf757cd62b1f32
